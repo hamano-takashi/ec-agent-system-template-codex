@@ -14,14 +14,44 @@ OpenAI Codex CLI 上で動作する、**EC事業のマーケティング業務�
 # 1. リポジトリをクローン
 git clone https://github.com/hamano-takashi/ec-agent-system-template-codex.git my-ec-agents
 cd my-ec-agents
+```
 
+### 環境構築時の補足
+
+#### macOS の場合
+
+- Xcode Command Line Tools のインストールが必要になる場合があります。その場合は、以下のコマンドでインストールしてください。
+
+```bash
+xcode-select --install
+```
+
+#### Windows の場合
+
+- Windows Terminal から `git clone` を実行できます。
+- Git が未インストールの場合は、[Git for Windows](https://gitforwindows.org/) をインストールしてください。
+- インストール後、Windows Terminal を開き直して以下のコマンドで確認します。
+
+```bash
+git --version
+```
+
+以下のようにバージョンが表示されればOKです。
+
+```bash
+git version 2.x.x
+```
+
+インストールが完了したら、Codex のチャットで「Gitをインストールしました」と伝えてください。
+
+```bash
 # 2. セキュリティフックをインストール
 bash setup/install-hooks.sh
 
 # 3. 環境変数を準備
 cp .env.example .env  # 必要なAPIキーを記入
 
-# 4. Codex CLI を起動
+# 4. Codex CLI を起動（使わなくても利用可能）
 codex
 ```
 
