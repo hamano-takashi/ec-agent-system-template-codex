@@ -12,7 +12,7 @@ OpenAI Codex CLI 上で動作する、**EC事業のマーケティング業務�
 
 ```bash
 # 1. リポジトリをクローン
-git clone https://github.com/<YOUR_ORG_OR_USER>/ec-agent-system-template-codex.git my-ec-agents
+git clone https://github.com/hamano-takashi/ec-agent-system-template-codex.git my-ec-agents
 cd my-ec-agents
 
 # 2. セキュリティフックをインストール
