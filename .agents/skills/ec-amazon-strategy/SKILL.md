@@ -79,6 +79,7 @@ Amazon商品ページの最適化。テキストSEOの基盤を構築する。
 - A+コンテンツ（ブランドストーリー + 比較表 + 画像リッチコンテンツ）
 - バックエンドキーワードの網羅的設定
 > 詳細は `references/catalog-creation.md` を参照
+> タイトル/ハイライト/裏KWの実装メソッド（弊社式：SEO語×CTRアテンション語×仕様の役割分担・75字＋商品のハイライト短タグ・新フィールド対応）は ec-amazon-ops-veteran の Skill 16/21/22 を参照（実装はops-veteran、戦略はstrategyの分業）。確定前の規約照合は platform-policy-check を使う。
 
 ### Skill 3: Amazon SEO（検索エンジン最適化）
 テキストSEO × 実績SEOの2軸で持続的な上位表示を実現する。
