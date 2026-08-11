@@ -285,6 +285,7 @@ handoff/YYYY-MM-DD_HH-MM_handoff.md
 | `sns-research` | ec-sns-analytics, ec-creative, ec-acquisition, ec-insight, trend-intel | 無料枠優先のSNS・YouTube公開データ調査、競合SNS分析、投稿案・LP訴求抽出 |
 | `ec-amazon-image-generator` | ec-creative, ec-amazon-strategy, ec-lpo, ec-operations | Amazon商品画像・Aプラス・ブランドストーリーの画像構成、生成AIプロンプト、撮影・レタッチ指示 |
 | `pox-analysis` | ec-brand-strategy, ec-lpo, ec-acquisition, ec-creative, ec-commander, ec-amazon-strategy, global-marketing-trends | Points of X（POD/POP/POF）で1競合ごとの比較を行い、ポジショニング・LP・商品画像・コンテンツ施策へ変換 |
+| `ec-amazon-ad-analytics` | ec-amazon-ops-veteran, ec-amazon-strategy, ec-acquisition, ec-insight, ec-commander | Amazon広告レポート（検索用語・キャンペーン・ビジネスレポート・検索クエリパフォーマンス）の分析・診断。除外・昇格の仕分け、月次メンテの見る順番、ACoSのCPC/CVR要因分解、市場内シェア診断。診断と提案まで（実行は人間） |
 
 ### Agent命名規則
 ```

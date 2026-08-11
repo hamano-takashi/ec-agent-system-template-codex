@@ -5,6 +5,7 @@ All notable changes to this template will be documented in this file.
 ## [Unreleased] - 2026-05-08
 
 ### Added
+- `ec-amazon-ad-analytics` skill (2026-08-11): Amazon広告レポートの分析・診断。検索語の除外・昇格・判断保留の仕分け、月次メンテの見る順番、ACoSのCPC/CVR要因分解、期間比較の寄与度分解、検索クエリパフォーマンス×ビジネスレポートの市場内シェア診断。書き出したレポートのみを扱い（管理画面の直接操作・認証情報の受け取りは禁止）、診断と提案まで・実行は人間
 - `lazyweb-design-research` skill: Lazyweb MCP / Chrome / Webを使ったLP・UI参考調査と実装前デザイン方向性整理
 - `sns-research` skill: 無料枠優先のSNS・YouTube公開データ調査、競合分析、投稿案・LP訴求抽出
 - `pox-analysis` skill: Points of X（POD/POP/POF）による自社 vs 競合1社の差別化・ポジショニング分析

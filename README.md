@@ -200,6 +200,7 @@ cp codex-prompts/*.md ~/.codex/prompts/
 | `ec-commander` | 戦略・フェーズ判定・競合 |
 | `pm` | 進行管理・WBS・リスク・品質 |
 | `ec-acquisition` | 広告・SEO・集客 |
+| `ec-amazon-ad-analytics` | Amazon広告レポートの分析・診断（除外・昇格仕分け、月次メンテ、ACoS要因分解） |
 | `ec-creative` | コンテンツ・SNS |
 | `ec-amazon-image-generator` | Amazon商品画像・Aプラス画像生成 |
 | `pox-analysis` | POD/POP/POFによる競合比較・ポジショニング分析 |
