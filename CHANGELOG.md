@@ -5,6 +5,12 @@ All notable changes to this template will be documented in this file.
 ## [Unreleased] - 2026-05-08
 
 ### Added
+- `ec-amazon-title-highlights` skill (2026-08-17): Amazon商品名75文字＋「商品のハイライト」（2026-07-27施行）の設計・移行の専用実務。出力表・移行手順・AI書き換え検知つき
+- `ec-amazon-analytics` skill (2026-08-17): Amazon売上を寄与度分解・検索クエリファネルの市場シェア診断・在庫切れ/LTV損失の金額化で科学的に診断する分析統括
+- `ec-amazon-ops-veteran` references 4本 (2026-08-17): amazon-ads-fieldnotes／title-highlight-migration-2026／product-title-highlights-2026／three-way-discussion-protocol更新
+
+### Changed
+- `ec-amazon-ops-veteran`・`ec-amazon-strategy` (2026-08-17): 2026年7月の商品名75文字化＋ハイライト対応へ全面更新（カタログ作成・SEO・広告・プリローンチ等references 10本含む）
 - `ec-amazon-ad-analytics` skill (2026-08-11): Amazon広告レポートの分析・診断。検索語の除外・昇格・判断保留の仕分け、月次メンテの見る順番、ACoSのCPC/CVR要因分解、期間比較の寄与度分解、検索クエリパフォーマンス×ビジネスレポートの市場内シェア診断。書き出したレポートのみを扱い（管理画面の直接操作・認証情報の受け取りは禁止）、診断と提案まで・実行は人間
 - `lazyweb-design-research` skill: Lazyweb MCP / Chrome / Webを使ったLP・UI参考調査と実装前デザイン方向性整理
 - `sns-research` skill: 無料枠優先のSNS・YouTube公開データ調査、競合分析、投稿案・LP訴求抽出

@@ -201,6 +201,8 @@ cp codex-prompts/*.md ~/.codex/prompts/
 | `pm` | 進行管理・WBS・リスク・品質 |
 | `ec-acquisition` | 広告・SEO・集客 |
 | `ec-amazon-ad-analytics` | Amazon広告レポートの分析・診断（除外・昇格仕分け、月次メンテ、ACoS要因分解） |
+| `ec-amazon-analytics` | Amazon売上の寄与度分解・検索クエリ市場シェア診断・在庫切れ/LTV損失の金額化 |
+| `ec-amazon-title-highlights` | Amazon商品名75文字＋「商品のハイライト」設計・移行（2026-07-27施行対応） |
 | `ec-creative` | コンテンツ・SNS |
 | `ec-amazon-image-generator` | Amazon商品画像・Aプラス画像生成 |
 | `pox-analysis` | POD/POP/POFによる競合比較・ポジショニング分析 |
