@@ -206,6 +206,7 @@ cp codex-prompts/*.md ~/.codex/prompts/
 | `ec-creative` | コンテンツ・SNS |
 | `ec-amazon-image-generator` | Amazon商品画像・Aプラス画像生成 |
 | `pox-analysis` | POD/POP/POFによる競合比較・ポジショニング分析 |
+| `cp-balance` | 梅澤理論のC/Pバランスで商品コンセプト（C）と商品力（P）を分けて診断 |
 | `ec-insight` | 分析・予測 |
 | `ec-engagement` | CRM・メール・CS |
 | `ec-operations` | CVR・価格・在庫 |
